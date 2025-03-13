@@ -1,5 +1,6 @@
 Set of top leetcode interview problems solved with pseudo code and explanation in C++
-Problem sets covering the following types:
+(WIP!!)
+- Problem sets covering the following types:
 1. Arrays
 2. Strings
 3. Searching and Sorting
